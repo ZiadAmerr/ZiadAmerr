@@ -30,8 +30,8 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15%" height="20%"/>
   </a>
   <br>
-  <a href="https://www.unify.ai/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only" alt="ivy" width="35%" height="35%"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="35%" height="35%"/>
   </a>
 </p>
 
