@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Ziad Amerr</h1>
-<h3 align="center">An enthusiastic hardworking undergraduate that has passion towards Research in Deep Learning & Computer Vision.</h3>
+<h3 align="center">I <emph>teach</emph> a 'couple trillion transistors connected together' for a living.</h3>
 
-- 🔭 I’m currently working on **code classification using NLP**.
+- 👨‍💻 Experience in **GANs**, **NLP**, **Computer Vision**, **Classical ML**, **QA & Testing**, **LLMs**, and developing *High-Performance* applications.
 
-- 👨‍💻 I have experience in **GANs**, **NLP**, and **Computer Vision**.
-
-- 🌱 I’m currently learning **Computer Engineering at Ain Shams University**.
+- 🌱 BSc in **Computer Engineering** from **Ain Shams University**.
 
 - 🤝 I’m looking forward to collaborating on **research projects**.
 
