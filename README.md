@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ziad Amerr</h1>
-<h3 align="center">I <emph>teach</emph> a 'couple trillion transistors connected together' for a living.</h3>
+<h3 align="center">I _teach_ a 'couple trillion transistors connected together' for a living.</h3>
 
 - 👨‍💻 Experience in **GANs**, **NLP**, **Computer Vision**, **Classical ML**, **QA & Testing**, **LLMs**, and developing *High-Performance* applications.
 
