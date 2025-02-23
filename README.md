@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="35%" height="35%"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="[https://www.rust-lang.org/static/images/rust-logo-blk.svg](https://kamoshi.org/static/slides/rust-introduction/rust.png)" alt="rust" width="20%" height="20%"/>
+    <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="20%" height="20%"/>
   </a>
 </p>
 
